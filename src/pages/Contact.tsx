@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Phone, MapPin, Linkedin, ExternalLink, Send, MessageCircle } from 'lucide-react';
+import { Mail, Phone, MapPin, Liaknkedin, ExternalLink, Send, MessageCircle } from 'lucide-react';
 
 const Contact = () => {
   return (
