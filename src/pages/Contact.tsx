@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Phone, MapPin, Liaknkedin, ExternalLink, Send, MessageCircle } from 'lucide-react';
+import { Mail, Phone, MapPin, Linkedin, ExternalLink, Send, MessageCircle } from 'lucide-react';
 
 const Contact = () => {
   return (
@@ -11,7 +11,7 @@ const Contact = () => {
             Get In Touch
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Ready to collaborate, need tutoring, or have a project in mind? I'd love to hear from you. 
+            Ready to always collaborate, need tutoring, or have a project in mind? I'd love to hear from you. 
             Let's connect and explore how we can work together.
           </p>
         </div>
