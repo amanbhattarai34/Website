@@ -41,7 +41,7 @@ const Tutoring = () => {
       duration: 'Monthly',
       description: 'Complete learning solution tailored to your needs',
       features: [
-        '8 hours of tutoring (monthly)',
+        '20 hours of tutoring (monthly)',
         'Customized study schedule',
         'Progress tracking',
         'Exam preparation',
@@ -128,8 +128,8 @@ const Tutoring = () => {
       rating: 5
     },
     {
-      name: 'Rohit Thapa',
-      grade: 'High School Student',
+      name: 'Padam Karki',
+      grade: 'Engineering Student',
       text: 'The statistics sessions were incredibly helpful. I improved my grades significantly after just a few sessions.',
       rating: 5
     },
