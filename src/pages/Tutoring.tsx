@@ -37,7 +37,7 @@ const Tutoring = () => {
     {
       id: 'personalized-plan',
       title: 'Personalized Learning Plan',
-      price: 'NPR 5,999',
+      price: 'NPR 14,999',
       duration: 'Monthly',
       description: 'Complete learning solution tailored to your needs',
       features: [
