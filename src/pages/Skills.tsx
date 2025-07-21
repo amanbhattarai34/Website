@@ -11,7 +11,7 @@ const Skills = () => {
         { name: "AutoCAD", level: 90, description: "2D drafting and technical drawings" },
         { name: "Autodesk Civil 3D", level: 85, description: "3D modeling and civil engineering design" },
         { name: "Autodesk Fusion 360", level: 80, description: "3D design and mechanical modeling" },
-        { name: "SketchUp", level: 75, description: "3D visualization and architectural modeling" }
+        { name: "SketchUp", level: 50, description: "3D visualization and architectural modeling" }
       ]
     },
     {
@@ -30,8 +30,8 @@ const Skills = () => {
       skills: [
         { name: "HEC-RAS", level: 88, description: "1-D river flow analysis and hydraulic modeling" },
         { name: "midas Civil", level: 70, description: "Structural analysis and design software" },
-        { name: "ETABS", level: 75, description: "Building analysis and design" },
-        { name: "SAP2000", level: 70, description: "Structural analysis program" }
+        { name: "ETABS", level: 50, description: "Building analysis and design" },
+        { name: "SAP2000", level: 50, description: "Structural analysis program" }
       ]
     },
     {
